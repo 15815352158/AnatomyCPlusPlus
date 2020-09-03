@@ -1,0 +1,3 @@
+*.user
+build-Test-*-Debug/
+build-Test-*-Release/
